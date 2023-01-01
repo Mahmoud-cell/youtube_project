@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Mahmoud-cell/youtube_project.git/static/css/main.7064deb2.css",
-    "main.js": "/Mahmoud-cell/youtube_project.git/static/js/main.8c652953.js",
-    "index.html": "/Mahmoud-cell/youtube_project.git/index.html",
-    "main.7064deb2.css.map": "/Mahmoud-cell/youtube_project.git/static/css/main.7064deb2.css.map",
-    "main.8c652953.js.map": "/Mahmoud-cell/youtube_project.git/static/js/main.8c652953.js.map"
+    "main.css": "/youtube_project.git/static/css/main.7064deb2.css",
+    "main.js": "/youtube_project.git/static/js/main.8c652953.js",
+    "index.html": "/youtube_project.git/index.html",
+    "main.7064deb2.css.map": "/youtube_project.git/static/css/main.7064deb2.css.map",
+    "main.8c652953.js.map": "/youtube_project.git/static/js/main.8c652953.js.map"
   },
   "entrypoints": [
     "static/css/main.7064deb2.css",
