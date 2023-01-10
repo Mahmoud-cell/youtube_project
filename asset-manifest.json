@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/youtube_project.git/static/css/main.7064deb2.css",
-    "main.js": "/youtube_project.git/static/js/main.8c652953.js",
+    "main.js": "/youtube_project.git/static/js/main.69c22570.js",
     "index.html": "/youtube_project.git/index.html",
     "main.7064deb2.css.map": "/youtube_project.git/static/css/main.7064deb2.css.map",
-    "main.8c652953.js.map": "/youtube_project.git/static/js/main.8c652953.js.map"
+    "main.69c22570.js.map": "/youtube_project.git/static/js/main.69c22570.js.map"
   },
   "entrypoints": [
     "static/css/main.7064deb2.css",
-    "static/js/main.8c652953.js"
+    "static/js/main.69c22570.js"
   ]
 }
